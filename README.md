@@ -1,7 +1,7 @@
 # Web-Crawler-in-Java
-## HTML parser will parse out the relevant info corresponding to an input search string from a large set of HTML content
-## The UI is created using JAVA Swing
-## For database we used Flatfile for speed, simplicity and portability
+### HTML parser will parse out the relevant info corresponding to an input search string from a large set of HTML content
+### The UI is created using JAVA Swing
+### For database we used Flatfile for speed, simplicity and portability
 ## 3 components of the project
 1. Multithreading
 2. Parsing
